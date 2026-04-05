@@ -67,6 +67,7 @@ const delegate4 = new Delegate("D004", "Dev. Bright - Tech Guru");
 const delegate5 = new Delegate("D005", "Dev. Topcy - Tech Wizard");
 const delegate6 = new Delegate("D006", "Dev. Promise - Tech Prodigy");
 
+console.log(" ------------------------------ WELCOME TO DEV INI'S CONFERENCE TICKETING SYSTEM ------------------------------");
 
 delegate1.bookConference();
 delegate1.register();
