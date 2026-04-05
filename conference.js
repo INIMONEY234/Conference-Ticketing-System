@@ -99,4 +99,4 @@ console.log("------------------------------");
 Conference.cancelSlot();
 
 console.log("------------------------------");
-
+console.log(`Available Slots after cancellation: ${Conference.availableSlots}`); 
